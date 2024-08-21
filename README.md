@@ -93,7 +93,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 _History of the world   >>> "Give a step by step detail of the beginning of the world"
 
-_What is blood         >>> "Give a details of how a blood is formulated in human being"
+_What is blood         >>> "Give a details of how a blood is formulated in human beings"
 
 
 
